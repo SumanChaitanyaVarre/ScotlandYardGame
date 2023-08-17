@@ -1,0 +1,4 @@
+https://youtu.be/bWKbdPAovFA
+https://youtu.be/TCd8QIS-2KI
+https://youtu.be/KxTRsvgqoVQ
+https://stackoverflow.com/questions/15753869/implementing-a-cyclicbarrier-in-java-using-semaphores
